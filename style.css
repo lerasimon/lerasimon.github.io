@@ -54,14 +54,6 @@ img:hover{
     color:black;
 }
 
-.sea-name:hover {
-    color:mediumaquamarine;
-}
-
-.forest-name:hover {
-    color:mediumseagreen;
-}
-
 .banner-content h3:hover {
     color:cadetblue;
 }
@@ -138,20 +130,6 @@ figure {
     font-weight: lighter;
 }
 
-.sea-name {
-    text-align:center;
-    letter-spacing: 5px;
-    color: lightslategray;
-    font-weight: lighter;
-}
-
-.forest-name {
-    text-align:center;
-    letter-spacing: 5px;
-    color: lightslategray;
-    font-weight: lighter;
-}
-
 h1 {
     text-align:center;
     letter-spacing: 25px;
@@ -196,3 +174,18 @@ h4 {
     border-bottom: 1px solid lightslategray;
     position: center;
 }
+
+.sea-name {
+    text-align:center;
+    letter-spacing: 5px;
+    color: lightslategray;
+    font-weight: lighter;
+}
+
+.forest-name {
+    text-align:center;
+    letter-spacing: 5px;
+    color: lightslategray;
+    font-weight: lighter;
+}
+
