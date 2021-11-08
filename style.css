@@ -1,6 +1,4 @@
-* { 
-    box-sizing: border-box;
-}
+
 .navigation ul {
     text-align: center;
     list-style-type: none;
@@ -56,6 +54,14 @@ img:hover{
     color:black;
 }
 
+.sea-name:hover {
+    color:mediumaquamarine;
+}
+
+.forest-name:hover {
+    color:mediumseagreen;
+}
+
 .banner-content h3:hover {
     color:cadetblue;
 }
@@ -103,6 +109,7 @@ img:hover{
     color:lightslategray;
     font-weight: 1;   
 }
+
 .banner a {
     display:block;
 }
@@ -125,6 +132,20 @@ figure {
 }
 
 .mount-name {
+    text-align:center;
+    letter-spacing: 5px;
+    color: lightslategray;
+    font-weight: lighter;
+}
+
+.sea-name {
+    text-align:center;
+    letter-spacing: 5px;
+    color: lightslategray;
+    font-weight: lighter;
+}
+
+.forest-name {
     text-align:center;
     letter-spacing: 5px;
     color: lightslategray;
@@ -165,4 +186,13 @@ h4 {
 
 #social-media a:hover {
   background: white;
+}
+
+.line-one {
+    border-bottom: 1px solid lightslategray;
+    position: center;
+}
+.line-two {
+    border-bottom: 1px solid lightslategray;
+    position: center;
 }
