@@ -9,30 +9,34 @@
 .navigation li {
     font-weight: 1;
     letter-spacing: 5px;
-    padding: 5px;
+    padding: 7px;
+    display: inline;
 }
 
-.navigation li.home:hover {
+a, a:active, a:visited {
+    color: lightslategray;
+}
+a.home:hover {
     color:lightgrey;
 }
 
-.navigation li.article:hover {
+a.article:hover {
     color:lightseagreen;
 }
 
-.navigation li.gallery:hover {
+a.gallery:hover {
     color:lightpink;
 }
 
-.navigation li.social-media:hover {
+a.social-media:hover {
     color:lightskyblue;
 }
 
-.navigation li.home:hover {
+a.home:hover {
     color:linen
 }
 
-.navigation li.contact:hover {
+a.contact:hover {
     color:lightsalmon;
 }
 
@@ -60,10 +64,6 @@ img:hover{
     background-image: url(mount.jpg);
     background-size: cover;
     height: 400px;
-}
-
-.banner {
-    text-align: center;
 }
 
 .banner-content h3 {
@@ -103,7 +103,7 @@ img:hover{
     color:lightslategray;
     font-weight: 1;   
 }
-a {
+.banner a {
     display:block;
 }
 
@@ -117,7 +117,7 @@ figure {
     cursor:pointer;
 }
 
-.media { 
+#media { 
     padding: 50px;
     border: 1px solid lightslategray;
     margin: 30px 20px;
@@ -146,7 +146,7 @@ h4 {
     font-weight: lighter;
 }
 
-.social-media a {
+#social-media a {
     background:lightslategrey;
     border-radius: 3px;
     color: gray;
@@ -158,11 +158,11 @@ h4 {
     text-shadow: 1px 1px lightgray;
 }
 
-.social-media {
+#social-media {
     position:relative;
     text-align:center;
 }
 
-.social-media a:hover {
+#social-media a:hover {
   background: white;
 }
