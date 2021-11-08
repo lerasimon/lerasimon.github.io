@@ -189,3 +189,10 @@ h4 {
     font-weight: lighter;
 }
 
+.sea-name:hover {
+    color:lightskyblue;
+}
+
+.forest-name:hover {
+    color:lightseagreen;
+}
