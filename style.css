@@ -201,7 +201,7 @@ h4 {
     color:lightslategray;
     background-color: lightseagreen;
     font-weight: lighter;
-    position: absolute;
+    position: fixed;
     top: 300px;
     right: 0px;
 }
