@@ -196,3 +196,12 @@ h4 {
 .forest-name:hover {
     color:lightseagreen;
 }
+
+.warning {
+    color:lightslategray;
+    background-color: lightseagreen;
+    font-weight: lighter;
+    position: absolute;
+    top: 300px;
+    right: 0px;
+}
