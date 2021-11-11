@@ -198,8 +198,8 @@ h4 {
 }
 
 .warning {
-    color:lightslategray;
-    background-color: lightseagreen;
+    color: rebeccapurple;
+    background-color: hsla(189, 98%, 52%, 0.5);
     font-weight: lighter;
     position: fixed;
     top: 300px;
