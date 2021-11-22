@@ -205,8 +205,7 @@ h4 {
     top: 300px;
     right: 0px;
     padding-left: 60px;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;
+   border-radius: 30px 0 0 30px;
 }
 
 .avatar img {
@@ -215,7 +214,7 @@ h4 {
     border-radius:50%;
     position: fixed;
     top: 305px;
-    right: 440px;
+    right: 443px;
 
 }
 
