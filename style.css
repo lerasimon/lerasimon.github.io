@@ -73,7 +73,7 @@ img:hover{
     width: 400px;
     margin: 0 auto;
     border-radius: 5px;
-    font-family: fantasy;
+    font-family: 'Cormorant Garamond', serif;
     font-weight: 1;
     letter-spacing: 5px;
     padding: 5px;
@@ -81,7 +81,7 @@ img:hover{
 
 .main h2 {
     text-align: center;
-    letter-spacing: 5px;
+    letter-spacing: 7px;
     padding: 5px;
     font-weight: 1;
     color:lightslategray
@@ -209,7 +209,7 @@ h4 {
     top: 300px;
     right: 0px;
     padding-left: 60px;
-   border-radius: 30px 0 0 30px;
+    border-radius: 30px 0 0 30px;
 }
 
 .avatar img {
@@ -223,9 +223,9 @@ h4 {
 }
 
 p {
-    font-family: 'Petemoss', cursive;
+    font-family: 'Cormorant Garamond', serif;
 }
 
 h2, h6 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Cormorant Garamond', serif;
 }
