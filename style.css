@@ -204,6 +204,16 @@ h4 {
     position: fixed;
     top: 300px;
     right: 0px;
+    padding-left: 55px;
+}
+
+.avatar img {
+    height: 50px;
+    width: 50px;
+    border-radius:50%;
+    position: fixed;
+    top:305px;
+    right: 438px;
 }
 
 p {
