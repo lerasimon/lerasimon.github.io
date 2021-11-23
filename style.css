@@ -215,7 +215,7 @@ h4 {
 }
 
 .warning h3 {
-    margin-right: 30px;
+    margin-right: 80px;
 }
 
 
@@ -225,7 +225,7 @@ h4 {
     border-radius:50%;
     position: fixed;
     top: 305px;
-    right: 600px;
+    right: 650px;
     z-index: 1;
 
 }
