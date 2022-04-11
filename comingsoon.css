@@ -1,0 +1,146 @@
+body {
+    margin:0;
+    padding:0;
+    height:120vh;
+    display:flex;
+    flex-direction:column;
+    font-family: 'Quicksand', sans-serif;
+    
+}
+
+ header {
+     position:fixed;
+     width:100%;
+     background-color: rgba(255,255,255,0.5);
+     height:3rem;
+ }
+
+ .get-in-touch {
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+    width: 250px;
+    cursor: pointer;
+  }
+
+  .get-in-touch {
+    float:right;
+    color: #42588b;
+    transition: all 0.3s;
+    position: relative;
+  }
+  .get-in-touch span {
+    transition: all 0.3s;
+  }
+
+  .get-in-touch:hover span {
+    letter-spacing: 2px;
+    color:#fff;
+  }
+
+  a {
+      text-decoration: none;
+      color:#42588b;
+  }
+
+
+
+
+.main {
+    display:flex;
+    flex:1;
+}
+
+.left {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex:1;
+    background-image: url('everest2.jpg');
+    background-size: cover;
+}
+
+.home {
+    height:2rem;
+    width:5rem;
+    cursor:pointer;
+    display:flex;
+    align-self: flex-start;
+    margin-top: 5rem;
+    color:  #42588b;
+    transition: all 0.3s;
+}
+
+.home:hover span {
+    letter-spacing: 2px;
+    color:#fff
+  }
+
+  .home span {
+    transition: all 0.3s;
+  }
+
+.fa-laptop-code {
+    font-size:1.1rem;
+}
+
+
+
+.staytuned {
+    display:flex;
+    width: 13rem;
+    height: 4rem;
+    border: 3px solid #fff;
+    justify-content: center;
+    align-items: center;
+    color:  #42588b;
+    font-size: 2rem;
+}
+
+.right {
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    flex:1;
+    background-color: #42588b;
+}
+
+p {
+    font-size:2rem;
+}
+
+.learnmore-container {
+    display:flex;
+    justify-content: center;
+    
+}
+
+.learnmore {
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 10.5rem;
+    height: 2.7rem;
+    background-color: #fff;
+    color: #42588b;
+}
+
+
+
+footer {
+    height: 4rem;
+    background-color: #000000;
+    text-align: center;
+}
+
+h3 {
+    color:#fff;
+}
+
+
+
+  
+  
